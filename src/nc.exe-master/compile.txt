@@ -1,0 +1,1 @@
+x86_64-w64-mingw32-gcc.exe  -DWIN32 -D_CONSOLE -DTELNET -DGAPING_SECURITY_HOLE getopt.c doexec.c mefcat.c -s -lkernel32 -luser32 -lwsock32 -lwinmm -o mefcat.exe
